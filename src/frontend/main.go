@@ -50,7 +50,7 @@ var (
 		"USD": true,
 		"EUR": true,
 		"CAD": true,
-		"JPY": true,
+		"KRW": true,
 		"GBP": true,
 		"TRY": true}
 )
